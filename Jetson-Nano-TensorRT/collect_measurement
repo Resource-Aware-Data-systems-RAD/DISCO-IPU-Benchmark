@@ -1,0 +1,12 @@
+for SF in 025 050 100
+do
+    for BATCH_SIZE in 1 2 4 8 16 32 64
+    do
+        echo SF ${SF}, BATCH_SIZE ${BATCH_SIZE}
+        (sudo tegrastats --interval 50 | while IFS= read -r line; do printf '%s %s\n' "$(date +%s)" "$line"; done >> logs/tegrastats/mobilenet_${SF}_${BATCH_SIZE}.log) &
+
+        python3 benchmark.py -m engines/mobilenet_v1_${SF}_opt64.trt -b ${BATCH_SIZE} -r 11 -l logs/python/mobilenet_${SF}_${BATCH_SIZE}.log
+
+        sudo killall tegrastats
+    done
+done

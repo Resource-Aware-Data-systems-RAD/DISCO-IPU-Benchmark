@@ -1,0 +1,1075 @@
+<?xml version="1.0"?>
+<mapping>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="keras_layer_12_input:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="keras_layer_12_input:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141" output_port_id="keras_layer_12_input:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280" output_port_id="keras_layer_12_input:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420" output_port_id="keras_layer_12_input:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/input/_0" output_port_id="keras_layer_12_input:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/input/_0" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/input/_0" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/input/_0" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="keras_layer_12_input" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/input/_141" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/input/_280" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/input/_420" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/input/_0" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="keras_layer_12_input" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul/y" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul/y:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul/y" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul/y" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul/y:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul/y" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Mul" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub/y" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub/y:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub/y" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub/y" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub/y:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub/y" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/hub_input/Sub" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_0/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_1_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_2_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_3_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_4_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_5_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_6_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_7_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_8_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_9_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_10_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_11_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_12_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/depthwise/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/depthwise/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_depthwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3/mean/Fused_Mul__copy" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/BatchNorm/FusedBatchNormV3/variance/Fused_Add_" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Relu6" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Relu6:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/MobilenetV1/MobilenetV1/Conv2d_13_pointwise/Relu6" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Squeeze_1293" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Squeeze_1293" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Squeeze_1293" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557" output_port_id="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Squeeze_1293" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Squeeze_1293" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Squeeze_1293" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/predict/feature_vector/SpatialSqueeze" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/output/_277" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/output/_417" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557" output_port_id="Func/StatefulPartitionedCall/sequential_15/keras_layer_12/StatefulPartitionedCall/StatefulPartitionedCall/StatefulPartitionedCall/output/_557:0" />
+		<IR name="Squeeze_1293" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/MatMul/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/MatMul/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/MatMul/ReadVariableOp" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/MatMul/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/MatMul/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/MatMul/ReadVariableOp" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/MatMul" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/MatMul:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/MatMul" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/MatMul" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/MatMul:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/MatMul" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/ReadVariableOp" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/ReadVariableOp" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_138" output_port_id="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_138" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_138" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="Func/StatefulPartitionedCall/output/_138:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd" output_port_id="Func/StatefulPartitionedCall/output/_138:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/output/_138:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="Func/StatefulPartitionedCall/output/_138:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_138" output_port_id="Func/StatefulPartitionedCall/output/_138:0" />
+		<IR name="StatefulPartitionedCall/sequential_15/dense_14/BiasAdd/Add" output_port_id="2" />
+	</map>
+</mapping>
